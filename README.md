@@ -4,7 +4,7 @@ Programming Language: JavaScript
 
 IDE: NetBeans 8.2
 
-Framework: Angula 1.0 
+Framework: Angular 1.0 
 
 ### What is this repository for? ###
 
